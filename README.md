@@ -1,2 +1,2 @@
-# My-Blog-s-Picture
+# MyPicture
 博客图床
